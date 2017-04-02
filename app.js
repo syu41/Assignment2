@@ -61,14 +61,12 @@ five.Board().on("ready", function() {
                 
             motion.on('motionstart', function() {
                 // record time of motion detected
-                led.on();
                 console.log('motion detected')
                 stime = Date.now();
             });
 
             motion.on('motionend', function() {
                 // calculate motion duration
-                led.off();
                 console.log('motion ended')
                 etime = Date.now();
                 duration = etime - stime;
