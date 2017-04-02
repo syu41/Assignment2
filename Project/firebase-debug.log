@@ -1,0 +1,42 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /home/will/.nvm/versions/node/v6.10.0/bin/node /home/will/.nvm/versions/node/v6.10.0/bin/firebase serve
+[debug] CLI Version:  3.5.0
+[debug] Platform:     linux
+[debug] Node Version: v6.10.0
+[debug] Time:         Sat Apr 01 2017 14:04:49 GMT+1100 (AEDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /home/will/Desktop/asgn2
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /home/shaocong/.nvm/versions/node/v5.0.0/bin/node /home/shaocong/.nvm/versions/node/v5.0.0/bin/firebase serve
+[debug] CLI Version:  3.5.0
+[debug] Platform:     linux
+[debug] Node Version: v5.0.0
+[debug] Time:         Sun Apr 02 2017 10:46:29 GMT+1000 (AEST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /home/shaocong/Desktop/assignment-2-team41/Project
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /home/shaocong/.nvm/versions/node/v5.0.0/bin/node /home/shaocong/.nvm/versions/node/v5.0.0/bin/firebase serve
+[debug] CLI Version:  3.5.0
+[debug] Platform:     linux
+[debug] Node Version: v5.0.0
+[debug] Time:         Sun Apr 02 2017 10:52:29 GMT+1000 (AEST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /home/shaocong/Desktop/assignment-2-team41/Project
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000
